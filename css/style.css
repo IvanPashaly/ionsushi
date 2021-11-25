@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Josefin+Sans:ital,wght@1,300&display=swap');
+
+.navbar-brand{
+	font-size: 250%;
+	font-family: 'Josefin Sans', sans-serif;
+}
